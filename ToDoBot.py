@@ -26,7 +26,7 @@ def init_db():
 
 
 init_db()
-TOKEN = "7964240820:AAE_QtSklQubGxt1mQbp3wPSS_BPI3MmVpE"
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN)
 
 HELP = '''
